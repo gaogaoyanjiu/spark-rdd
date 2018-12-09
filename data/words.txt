@@ -1,0 +1,6 @@
+hello world
+hello spark
+hello hive
+hello hbase
+welcome hadoop
+welcome flume
